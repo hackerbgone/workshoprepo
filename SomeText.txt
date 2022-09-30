@@ -1,1 +1,11 @@
-bruh
+public class Bruh{
+
+    public static void main(String[] bruh){
+
+        while (true){
+        System.out.print("bruh".repeat(111));
+        }
+
+    }
+
+}
